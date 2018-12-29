@@ -25,17 +25,20 @@ Windows: 8.1
 With the pretained Resnet50, I used transfer learning on new dog image data, the models has 75% accuracy on test data for dog breed with only 5 epochs of training (took less than 10 mins). The final user app uses the pretrained VGG16 as a dog detector, then uses the tuned Restnet50 as dog breed classifier, for huamans, I used OpenCV's implementation of Haar feature-based cascade classifiers to detect human faces in images.
 
 I tried the app with photo of myself, it shows I look like a Bull terrier, and trump looks like Greyhound.
-![me][image1]{:height="700px" width="400px"}
+
+![me][image1]
 
 here is an example of a Bull terrier:
-![melike][image2]{:height="700px" width="400px"}
+
+![melike][image2]
 
 For trump:
 
-![trump][image3]{:height="700px" width="400px"}
+![trump][image3]
 
 here is an example of a Greyhound:
-![trumplike][image4]{:height="700px" width="400px"}
+
+![trumplike][image4]
 
 # Deliverable
 Check the *dog_app.ipynb* for model with detail in code.
