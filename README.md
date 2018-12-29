@@ -2,10 +2,10 @@
 [//]: # (Image References)
 
 [image1]: ./result/me.png "me"
-[image2]: ./result/bullterrier.png "melike"
+[image2]: ./result/bullterrier.jpeg "melike"
 [image3]: ./result/trump.png "trump"
-[image4]: ./result/greyhound.png "trumplike"
-me
+[image4]: ./result/greyhound.jpeg "trumplike"
+
 # Overview
 The second project for Udacity Deep Learning Nanodegree program. In this project, I will explore state-of-the-art CNN models for classification, build a pipeline to process real-world, user-supplied dog images. Given an image of a dog, my model will identify an estimate of the canine’s breed. If supplied an image of a human, just for fun, my code will identify the resembling dog breed.
 
@@ -35,6 +35,6 @@ For trump:
 ![trumplike][image4]
 
 # Deliverable
-Check the dog_app.ipynb for model with detail in code.
+Check the *dog_app.ipynb* for model with detail in code.
 
-Check myphotos for the photos I tried with my app.
+Check *myphotos* for the photos I tried with my app.
