@@ -1,4 +1,4 @@
-# CNN-Dog_Image_Project
+# CNNs-Dog-Image-Project
 [//]: # (Image References)
 
 [image1]: ./result/me.png "me"
