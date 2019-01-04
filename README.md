@@ -43,4 +43,4 @@ here is an example of a Greyhound:
 # Deliverable
 Check the [*dog_app.ipynb*](./dog_app.ipynb) for model with detail in code.
 
-Check [*myphoto*]((./myphoto) for the photos I tried with my app.
+Check [*myphoto*](./myphoto) for the photos I tried with my app.
