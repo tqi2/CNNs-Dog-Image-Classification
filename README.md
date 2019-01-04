@@ -41,6 +41,6 @@ here is an example of a Greyhound:
 ![trumplike][image4]
 
 # Deliverable
-Check the *dog_app.ipynb* for model with detail in code.
+Check the [*dog_app.ipynb*](./dog_app.ipynb) for model with detail in code.
 
-Check *myphoto* for the photos I tried with my app.
+Check [*myphoto*]((./myphoto) for the photos I tried with my app.
